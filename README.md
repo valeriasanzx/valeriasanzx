@@ -4,7 +4,7 @@ I build **GenAI tools that take real work off people's plates** — computer vis
 
 Currently **AI Creator Marketing Associate at Social Native**, finishing a B.S. in Information Systems & Business Analytics + Entrepreneurship (CS minor) at Loyola Marymount University.
 
-🔗 **Portfolio & case studies →** _(link coming — deploying shortly)_
+🔗 **[Portfolio & case studies →](https://portfolio-eta-eight-46.vercel.app)**
 
 ---
 
